@@ -9,6 +9,12 @@ const nextConfig = {
             port:'',
             search:''
             },
+            {
+            protocol: 'https',
+            hostname: 'res.cloudinary.com',
+            port:'',
+            search:''
+            },
         ],
     }
 };
